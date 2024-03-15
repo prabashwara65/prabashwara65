@@ -5,7 +5,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=prabashwara65&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" 
         style="width: 47%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabashwara65&theme=gruvbox&hide_border=true" style="width: 52%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabashwara65&theme=gruvbox&hide_border=true" style="width: 52%;"> 
 </div>
 
 <br>
