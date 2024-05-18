@@ -11,8 +11,8 @@
 <br>
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-contributor-stats.vercel.app/api?username=prabashwara65&limit=5&theme=gruvbox&hide_border=true&combine_all_yearly_contributions=true"
-        style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabashwara65&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 50%;">
+        style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabashwara65&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 48%;">
 </div>
 
 <br>
