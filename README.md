@@ -1,4 +1,4 @@
-<img src="https://github.com/prabashwara65/prabashwara65/blob/main/banner1.png" alt="Alt Text" style="border-radius: 20px; width: 80%;">
+<img src="https://github.com/prabashwara65/prabashwara65/blob/main/banner1.png" alt="Alt Text" style="border-radius: 20px; width: 99%;">
 
 
 
