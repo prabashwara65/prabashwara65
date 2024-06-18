@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/prabashwara65/prabashwara65/blob/main/banner.png)  
+<img src="https://github.com/prabashwara65/prabashwara65/blob/main/banner.png" alt="Alt Text" style="border-radius: 4px; width: 100%;">
 
 
 
